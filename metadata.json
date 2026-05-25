@@ -1,0 +1,6 @@
+{
+  "name": "DShare",
+  "description": "An offline file sharing app over local WiFi or Hotspot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
