@@ -5,7 +5,7 @@ A production-ready, lightning-fast Android offline file sharing application buil
 This app automatically intelligently routes connections via local WiFi or Mobile Hotspots to transfer large files (1GB+) securely and rapidly without any internet connection, backend servers, or cloud storage.
 
 ## 📥 Download
-[**Download the latest APK**](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest) from the Releases page.
+[**Download the latest APK**](https://github.com/nischalsir/DShare/releases/latest) from the Releases page.
 
 ## ✨ Features
 
